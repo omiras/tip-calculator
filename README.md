@@ -2,6 +2,8 @@
 
 [Demo app](https://demo.100jsprojects.com/tip-calculator)
 
+![tip calculator](tipcalc.jpg)
+
 Una sencilla App para saber cuál será el precio de la cuenta final una vez aplicada la propina
 
 1. El usuario rellena el campo _bill amount_ con el precio total de la cuenta
