@@ -1,7 +1,7 @@
-const btnEl = document.getElementById("calculate");
-const billInput = document.getElementById("bill");
-const tipInput = document.getElementById("tip");
-const totalSpan = document.getElementById("total");
+const btnEl = document.querySelector("#calculate");
+const billInput = document.querySelector("#bill");
+const tipInput = document.querySelector("#tip");
+const totalSpan = document.querySelector("#total");
 
 function calculateTotal() {
   const billValue = billInput.value;
